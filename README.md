@@ -1,2 +1,1 @@
-# winver-windows-10
-winver.exe
+windows programs bruh
